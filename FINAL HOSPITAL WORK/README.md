@@ -6,12 +6,12 @@ see [Hospital Desert Final.ipynb](https://github.com/apopopopo/awesome_project/b
 
 or run `jupyter notebook` on your environment
 
-* Requirement 
-    * Mac OS (10.13.4) / Windows
-    * Python (3.6.2)
-    * Jupyter Notebook (5.0.0)
+##### Requirement 
+* Mac OS (10.13.4) / Windows
+* Python (3.6.2)
+* Jupyter Notebook (5.0.0)
 
-* Usage
+##### Usage
 
 1. clone the repository
 ```
@@ -33,4 +33,10 @@ see [here](https://docs.google.com/presentation/d/1wEXKnqlVC9D07Gd0sckpf7RcGEJ97
 
 ### Proposal
 see [here](https://docs.google.com/document/d/1IKVVVNqQaMenLzUPRoiScp3pNvt3CVlhznUIvIJgDqY/edit) (GoogleDocs)
+
+        
+### Apps
+* Usage
+    * run `jupyter notebook` according to the usage [above](https://github.com/apopopopo/awesome_project/tree/master/FINAL%20HOSPITAL%20WORK#usage)
+    * open `apps.ipynb` on your browser then follow the instruction.
 
