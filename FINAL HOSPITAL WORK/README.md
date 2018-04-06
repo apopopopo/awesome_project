@@ -34,9 +34,9 @@ see [here](https://docs.google.com/presentation/d/1wEXKnqlVC9D07Gd0sckpf7RcGEJ97
 ### Proposal
 see [here](https://docs.google.com/document/d/1IKVVVNqQaMenLzUPRoiScp3pNvt3CVlhznUIvIJgDqY/edit) (GoogleDocs)
 
-        
+
 ### Apps
 * Usage
-    * run `jupyter notebook` according to the usage [above](https://github.com/apopopopo/awesome_project/tree/master/FINAL%20HOSPITAL%20WORK#usage)
+    * run `jupyter notebook` according to the [usage](https://github.com/apopopopo/awesome_project/tree/master/FINAL%20HOSPITAL%20WORK#usage)
     * open `apps.ipynb` on your browser then follow the instruction.
 
